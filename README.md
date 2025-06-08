@@ -1,4 +1,4 @@
-# smart-attendance-system
+# Smart-attendance-system
 
 
 ## 🚀 Features
