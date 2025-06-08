@@ -2,7 +2,7 @@
 
 **Smart Attendance System** is an AI-powered face recognition solution that automatically tracks attendance using real-time face detection and logs data to Excel sheets.
 
-🔗 **GitHub Repository:** [Add your GitHub repo link here]
+🔗 **GitHub Repository:** [github.com/tanishamadaan64/Smart-Attendance-System](https://github.com/tanishamadaan64/Smart-Attendance-System)
 
 ## ✨ Features
 
